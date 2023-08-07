@@ -5,4 +5,4 @@ Hi there 👋
 - 👨‍🎓 I am a Software Engineering Student at WeThinkCode_ and ALX, and I am very passionate about learning and developing in the field.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashlyn-Govindasamy-Dev)](https://github.com/Sashlyn-Govindasamy-Dev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashlyn-Govindasamy-Dev&layout=compact)
