@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 👨‍🎓 I am a technical Operations Intern at Merchant Capital, I work with Salesforce, Synatic and I am currently dabbling in SharePoint Development. 
+- 👨‍🎓 I am a Technical Operations Intern at Merchant Capital. I work with Salesforce, Synatic and I am currently dabbling in SharePoint Development. 
 - 🌱 I’m currently learning a lot of stuff, a bit like Alice in Wonderland, tumbling down a rabbit hole 🐰
 
 
